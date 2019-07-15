@@ -2,8 +2,8 @@
 
 :root {
    --main-color: black;
-   font-family:'DM Serif Text', serif;
-   scroll behavior= smooth;
+   font-family:'DM Serif Text' serif;
+   scroll-behavior: smooth;
 }
 
 body {
@@ -39,7 +39,7 @@ h1, h2, h3, h4, h5, h6, header, main, footer, nav, p {
     text-decoration: none;
     border: 1px solid white;
     padding: 2px;
-    color: var(--main-color);
+    color:black;
 }
 
 .top-header .top-menu li a:hover {
